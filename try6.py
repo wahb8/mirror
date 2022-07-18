@@ -1,4 +1,4 @@
-stream = "000 001 111 000 001 111 000 001 010 011 100 101 1101 0000"
+stream = "000 001 111 000 001 111 000 001 010 011 100 101 1101 0000"#example input, use binary input if you want to test this out
 
 def Convert(string): #to convert string to list to use
   list1=[]
